@@ -9,7 +9,7 @@ function Home() {
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
          <h1><GiFarmer className="logo"/>Only4Cattle </h1>
-        <p id="main">Find your suitable liveStocks here! </p>
+        <p>Find your suitable liveStocks here! </p>
         <Link to="/menu">
           <button>See Availabilities </button>
         </Link>
