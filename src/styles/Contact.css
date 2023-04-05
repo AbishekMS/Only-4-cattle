@@ -12,7 +12,6 @@
   background-size: cover;
 }
 
-
 .contact .rightSide {
   height: 100%;
   flex: 50%;
@@ -27,10 +26,6 @@
   font-weight: 10;
   font-size: 50px;
   margin-left: 30px;
-}
-.main{
-padding-left:20px;
-
 }
 
 form {
@@ -85,8 +80,7 @@ form .main {
 }
 #upload{
   
- height:25px;
- width: 80px;
+ 
   border: none;
   background-color: #121619;
   color: whitesmoke;

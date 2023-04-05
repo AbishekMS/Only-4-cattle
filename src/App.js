@@ -5,11 +5,7 @@ import Home from "./pages/Home";
 import Availabilities from "./pages/Availabilities";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Login from "./logins/login";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Password from "./logins/Password";
-import Signup from "./logins/Signup";
-//import LogBar from "./logins/LogNav";
 
 function App() {
   return (
@@ -21,11 +17,6 @@ function App() {
           <Route path="/menu" exact component={Availabilities} />
           <Route path="/about" exact component={About} />
           <Route path="/contact" exact component={Contact} />
-          <Route path="/login" exact component={Login} />
-          <Route path="/signup" exact component={Signup} />
-          <Route path="/password" exact component={Password} />
-          
-          
         </Switch>
        
       </Router>
