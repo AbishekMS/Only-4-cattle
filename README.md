@@ -1,6 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Only4Cattle - Online Cattle Selling Website.
+Welcome to my first built website.Modern layouts like Material UI and [Bootstrap icons](https://www.npmjs.com/package/bootstrap-icons) are used to make website more interactive and clean.
+* built using React
+* bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* styled with Material UI
+* high quality images from [Freepik](https://www.freepik.com/).
+  
+## Screenshots 
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/fdcb5d64-1dbd-49b8-a98f-15f1c230c373)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/c02c4ed3-aabe-48d6-885b-816e0397e398)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/7cbc74b3-4288-4879-aa3c-586cf58ec48a)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/9ffee986-af40-4824-9898-341516d38466)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/c4b0eaa1-c078-49c1-8d85-f305c9fc3895)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/efe0a927-e676-4814-aa8d-a7b72d49e6e7)
+![image](https://github.com/AbishekMS/Only-4-cattle/assets/108707094/a79b9c2c-8b32-4084-a1b9-4507ce91fe1c)
 
 ## Available Scripts
 
